@@ -1,6 +1,0 @@
-include ../icon/icon
-
-mixin principles-item(icon, title, large)
-	+b.principles-item&attributes(attributes)
-		+icon(icon).__icon(class=`${large ? 'principles-item__icon--large': ''}`)
-		+e.H3.title= title

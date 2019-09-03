@@ -1,0 +1,799 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ef5821e1-f5ac-422c-8f77-c2b3ecc5e5d1" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/blocks/header/header.jade" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/blocks/header/header.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/blocks/header/header.styl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/blocks/home-section/home-section.jade" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/blocks/home-section/home-section.styl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/blocks/nav/nav.jade" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/blocks/nav/nav.styl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/blocks/page/page.styl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/blocks/principles-item/principles-item.jade" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/blocks/principles-item/principles-item.styl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/blocks/principles-section/principles-section.jade" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/blocks/principles-section/principles-section.styl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/blocks/slide-item/slide-item.jade" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/blocks/slide-item/slide-item.styl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/blocks/slide-tabs/slide-tabs.jade" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/blocks/slide-tabs/slide-tabs.styl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/blocks/tech-slider/tech-slider.jade" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/blocks/tech-slider/tech-slider.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/blocks/tech-slider/tech-slider.styl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/blocks/technologies-section/technologies-section.jade" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/blocks/technologies-section/technologies-section.styl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/icons/1.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/icons/2.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/icons/3.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/icons/4.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/icons/camera.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/icons/folder.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/icons/man.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/icons/server.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/resources/assets/fonts/subset-ofont_ru_MuseoSansCyrl300.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/resources/assets/fonts/subset-ofont_ru_MuseoSansCyrl300.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/resources/assets/fonts/subset-ofont_ru_MuseoSansCyrl300.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/resources/assets/fonts/subset-ofont_ru_MuseoSansCyrl300.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/resources/assets/fonts/subset-ofont_ru_MuseoSansCyrl500.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/resources/assets/fonts/subset-ofont_ru_MuseoSansCyrl500.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/resources/assets/fonts/subset-ofont_ru_MuseoSansCyrl500.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/resources/assets/fonts/subset-ofont_ru_MuseoSansCyrl500.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/resources/assets/fonts/subset-ofont_ru_MuseoSansCyrl700.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/resources/assets/fonts/subset-ofont_ru_MuseoSansCyrl700.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/resources/assets/fonts/subset-ofont_ru_MuseoSansCyrl700.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/resources/assets/fonts/subset-ofont_ru_MuseoSansCyrl700.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/resources/assets/fonts/subset-ofont_ru_MuseoSansCyrl900.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/resources/assets/fonts/subset-ofont_ru_MuseoSansCyrl900.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/resources/assets/fonts/subset-ofont_ru_MuseoSansCyrl900.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/resources/assets/fonts/subset-ofont_ru_MuseoSansCyrl900.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/resources/assets/images/bg/map.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/resources/assets/images/bg/section3bg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/resources/assets/images/icons/1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/resources/assets/images/icons/2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/resources/assets/images/icons/3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/resources/assets/images/icons/4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/resources/assets/videos/video.mp4" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/styles/elements/btn.styl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/styles/elements/global.styl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/styles/elements/link.styl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/styles/elements/side-nav.styl" />
+      <change beforePath="$PROJECT_DIR$/.eslintrc" afterPath="$PROJECT_DIR$/.eslintrc" />
+      <change beforePath="$PROJECT_DIR$/app/blocks/head/head.jade" afterPath="$PROJECT_DIR$/app/blocks/head/head.jade" />
+      <change beforePath="$PROJECT_DIR$/app/blocks/page/page.jade" afterPath="$PROJECT_DIR$/app/blocks/page/page.jade" />
+      <change beforePath="$PROJECT_DIR$/app/icons/.keep" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/pages/index.jade" afterPath="$PROJECT_DIR$/app/pages/index.jade" />
+      <change beforePath="$PROJECT_DIR$/app/resources/android-chrome-144x144.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/resources/android-chrome-192x192.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/resources/android-chrome-36x36.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/resources/android-chrome-48x48.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/resources/android-chrome-72x72.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/resources/android-chrome-96x96.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/resources/apple-touch-icon-114x114.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/resources/apple-touch-icon-120x120.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/resources/apple-touch-icon-144x144.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/resources/apple-touch-icon-152x152.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/resources/apple-touch-icon-180x180.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/resources/apple-touch-icon-57x57.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/resources/apple-touch-icon-60x60.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/resources/apple-touch-icon-72x72.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/resources/apple-touch-icon-76x76.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/resources/apple-touch-icon-precomposed.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/resources/apple-touch-icon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/resources/browserconfig.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/resources/favicon-160x160.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/resources/favicon-16x16.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/resources/favicon-192x192.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/resources/favicon-32x32.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/resources/favicon-96x96.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/resources/favicon.ico" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/resources/manifest.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/resources/mstile-large.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/resources/mstile-medium.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/resources/mstile-small.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/resources/mstile-wide.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/resources/robots.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/scripts/app.js" afterPath="$PROJECT_DIR$/app/scripts/app.js" />
+      <change beforePath="$PROJECT_DIR$/app/styles/app.styl" afterPath="$PROJECT_DIR$/app/styles/app.styl" />
+      <change beforePath="$PROJECT_DIR$/app/styles/helpers/fonts.styl" afterPath="$PROJECT_DIR$/app/styles/helpers/fonts.styl" />
+      <change beforePath="$PROJECT_DIR$/app/styles/helpers/variables.styl" afterPath="$PROJECT_DIR$/app/styles/helpers/variables.styl" />
+      <change beforePath="$PROJECT_DIR$/contributing.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change beforePath="$PROJECT_DIR$/readme.md" afterPath="$PROJECT_DIR$/readme.md" />
+      <change beforePath="$PROJECT_DIR$/tasks/scripts.js" afterPath="$PROJECT_DIR$/tasks/scripts.js" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" afterPath="" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="principles-section.styl" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/blocks/principles-section/principles-section.styl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="183" column="22" lean-forward="false" selection-start-line="183" selection-start-column="22" selection-end-line="183" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>@</find>
+      <find>&quot;subset</find>
+      <find>&quot;../</find>
+      <find>fonts</find>
+      <find>col</find>
+      <find>stamp</find>
+      <find>&quot;colons&quot;: &quot;never&quot;</find>
+      <find>logo</find>
+      <find>check</find>
+      <find>checkmark</find>
+      <find>-webkit-slider-thumb</find>
+      <find>radio-btn-field__checkmark</find>
+      <find>IMG</find>
+      <find>sprite</find>
+      <find>make</find>
+      <find>'subset-ofont_ru</find>
+      <find>#202020</find>
+      <find>#C91226</find>
+      <find>#E9E9E9</find>
+      <find>change</find>
+      <find>stroke=&quot;#AFAFAF&quot;</find>
+      <find>fill=&quot;#AFAFAF&quot;</find>
+      <find>$c_svg</find>
+      <find>F03145</find>
+      <find>csssr</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&quot;../../fonts/subset</replace>
+      <replace>&quot;</replace>
+      <replace>'../../assets/fonts/subset-ofont_ru</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/blocks/form/form.styl" />
+        <option value="$PROJECT_DIR$/dist/assets/styles/app.min.css" />
+        <option value="$PROJECT_DIR$/app/blocks/head/head.jade" />
+        <option value="$PROJECT_DIR$/.eslintrc" />
+        <option value="$PROJECT_DIR$/app/blocks/solutions-section/solutions-section.styl" />
+        <option value="$PROJECT_DIR$/app/blocks/solutions-section/solutions-section.jade" />
+        <option value="$USER_HOME$/Downloads/Ресурс 1.2.svg" />
+        <option value="$PROJECT_DIR$/app/icons/logo.svg" />
+        <option value="$PROJECT_DIR$/app/blocks/logo/logo.jade" />
+        <option value="$PROJECT_DIR$/app/styles/elements/link.styl" />
+        <option value="$PROJECT_DIR$/app/blocks/nav/nav.jade" />
+        <option value="$PROJECT_DIR$/app/blocks/page/page.styl" />
+        <option value="$PROJECT_DIR$/app/styles/elements/global.styl" />
+        <option value="$PROJECT_DIR$/app/styles/helpers/fonts.styl" />
+        <option value="$PROJECT_DIR$/app/blocks/home-section/home-section.jade" />
+        <option value="$PROJECT_DIR$/app/styles/elements/btn.styl" />
+        <option value="$PROJECT_DIR$/app/styles/elements/side-nav.styl" />
+        <option value="$PROJECT_DIR$/app/blocks/header/header.jade" />
+        <option value="$PROJECT_DIR$/app/scripts/app.js" />
+        <option value="$PROJECT_DIR$/app/blocks/header/header.styl" />
+        <option value="$PROJECT_DIR$/app/blocks/home-section/home-section.styl" />
+        <option value="$PROJECT_DIR$/app/blocks/nav/nav.styl" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/app/styles/app.styl" />
+        <option value="$PROJECT_DIR$/app/blocks/slide-item/slide-item.jade" />
+        <option value="$PROJECT_DIR$/app/blocks/header/header.js" />
+        <option value="$PROJECT_DIR$/app/blocks/slid-tabs/slid-tabs.jade" />
+        <option value="$PROJECT_DIR$/app/blocks/tech-slider/tech-slider.jade" />
+        <option value="$PROJECT_DIR$/app/blocks/slide-tabs/slide-tabs.jade" />
+        <option value="$PROJECT_DIR$/app/icons/1.svg" />
+        <option value="$PROJECT_DIR$/app/icons/4.svg" />
+        <option value="$PROJECT_DIR$/app/icons/3.svg" />
+        <option value="$PROJECT_DIR$/app/icons/2.svg" />
+        <option value="$PROJECT_DIR$/app/blocks/slide-item/slide-item.styl" />
+        <option value="$PROJECT_DIR$/app/blocks/tech-slider/tech-slider.styl" />
+        <option value="$PROJECT_DIR$/app/blocks/technologies-section/technologies-section.jade" />
+        <option value="$PROJECT_DIR$/app/blocks/slide-tabs/slide-tabs.styl" />
+        <option value="$PROJECT_DIR$/app/blocks/tech-slider/tech-slider.js" />
+        <option value="$PROJECT_DIR$/app/blocks/page/page.jade" />
+        <option value="$PROJECT_DIR$/app/icons/man.svg" />
+        <option value="$PROJECT_DIR$/app/icons/server.svg" />
+        <option value="$PROJECT_DIR$/app/icons/camera.svg" />
+        <option value="$PROJECT_DIR$/app/styles/helpers/variables.styl" />
+        <option value="$PROJECT_DIR$/app/blocks/principles-item/principles-item.jade" />
+        <option value="$PROJECT_DIR$/app/blocks/principles-item/principles-item.styl" />
+        <option value="$USER_HOME$/Downloads/comp Russia.svg" />
+        <option value="$PROJECT_DIR$/app/blocks/map/map.jade" />
+        <option value="$PROJECT_DIR$/app/blocks/principles-section/principles-section.jade" />
+        <option value="$PROJECT_DIR$/app/blocks/technologies-section/technologies-section.styl" />
+        <option value="$PROJECT_DIR$/readme.md" />
+        <option value="$PROJECT_DIR$/app/blocks/principles-section/principles-section.styl" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <gulpfiles>
+      <GulpfileState>
+        <gulpfile-path>$PROJECT_DIR$/gulpfile.babel.js</gulpfile-path>
+      </GulpfileState>
+    </gulpfiles>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1919" />
+    <option name="width" value="1922" />
+    <option name="height" value="1085" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>JSJQueryEfficiency</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="alager-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alager-project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="alager-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alager-project" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="alager-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alager-project" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="blocks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="alager-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alager-project" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="blocks" type="462c0819:PsiDirectoryNode" />
+              <item name="principles-section" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.path.for.package.eslint" value="$USER_HOME$/.nvm/versions/node/v10.16.1/bin/node" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="node.js.path.for.package.standard" value="$USER_HOME$/.nvm/versions/node/v10.16.1/bin/node" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.selected.package.standard" value="$PROJECT_DIR$/node_modules/eslint" />
+    <property name="SearchEverywhereHistoryKey" value="мфк&#9;FILE&#9;file:///home/Leinad/Documents/alager-project/app/styles/helpers/variables.styl&#10;var\&#9;FILE&#9;file:///home/Leinad/Documents/alager-project/app/styles/helpers/variables.styl&#10;мф&#9;FILE&#9;file:///home/Leinad/Documents/alager-project/app/styles/helpers/variables.styl&#10;variables&#9;FILE&#9;file:///home/Leinad/Documents/alager-project/app/styles/helpers/variables.styl&#10;var&#9;FILE&#9;file:///home/Leinad/Documents/alager-project/app/styles/helpers/variables.styl" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/app/resources/assets/images/bg" />
+      <recent name="$PROJECT_DIR$/app/resources" />
+      <recent name="$PROJECT_DIR$/app/resources/assets/images/icons" />
+      <recent name="$PROJECT_DIR$/app/icons" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/resources/assets/images/bg" />
+      <recent name="$PROJECT_DIR$/app/resources/assets/images" />
+      <recent name="$PROJECT_DIR$/app/icons" />
+      <recent name="$PROJECT_DIR$/app/sprites/input" />
+      <recent name="$PROJECT_DIR$/app/resources/assets" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef5821e1-f5ac-422c-8f77-c2b3ecc5e5d1" name="Default" comment="" />
+      <created>1562758263599</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562758263599</updated>
+      <workItem from="1562758265390" duration="42176000" />
+      <workItem from="1563366221094" duration="304000" />
+      <workItem from="1563370058911" duration="20544000" />
+      <workItem from="1564574486035" duration="248000" />
+      <workItem from="1564576225092" duration="1774000" />
+      <workItem from="1564580336223" duration="61000" />
+      <workItem from="1564580447655" duration="116000" />
+      <workItem from="1564580586559" duration="36000" />
+      <workItem from="1564580693606" duration="965000" />
+      <workItem from="1564586199993" duration="31000" />
+      <workItem from="1564587884383" duration="32000" />
+      <workItem from="1564645207113" duration="571000" />
+      <workItem from="1564651607631" duration="29000" />
+      <workItem from="1564744677376" duration="1483000" />
+      <workItem from="1567335056956" duration="11319000" />
+      <workItem from="1567403566324" duration="9527000" />
+      <workItem from="1567414055772" duration="14458000" />
+      <workItem from="1567444568843" duration="15311000" />
+      <workItem from="1567496870830" duration="4716000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="123701000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1919" y="0" width="1922" height="1085" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2136076" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1877637" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/blocks/page/page.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/resources/assets/fonts/subset-ofont_ru_MuseoSansCyrlBlack.eot" />
+    <entry file="file://$PROJECT_DIR$/app/resources/assets/fonts/subset-ofont_ru_MuseoSansCyrlBlack.woff" />
+    <entry file="file://$PROJECT_DIR$/app/resources/assets/fonts/subset-ofont_ru_MuseoSansCyrl900.eot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/helpers/fonts.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="31" lean-forward="false" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/icons/Vector.svg" />
+    <entry file="file://$PROJECT_DIR$/app/blocks/home-section/home-section.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="59" lean-forward="false" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/elements/btn.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="33" lean-forward="false" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/blocks/header/header.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/blocks/header/header.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="4" lean-forward="false" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/blocks/home-section/home-section.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="64" column="19" lean-forward="false" selection-start-line="64" selection-start-column="19" selection-end-line="64" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/blocks/nav/nav.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="18" lean-forward="false" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1751">
+          <caret line="103" column="39" lean-forward="false" selection-start-line="103" selection-start-column="39" selection-end-line="103" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/app.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="22" lean-forward="false" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/elements/side-nav.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="19" lean-forward="false" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/swiper/dist/js/swiper.esm.bundle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="4464" column="19" lean-forward="false" selection-start-line="4464" selection-start-column="13" selection-end-line="4464" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/blocks/tech-slider/tech-slider.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="32" lean-forward="false" selection-start-line="0" selection-start-column="32" selection-end-line="0" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/helpers/mixins.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/icons/4.svg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/icons/3.svg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/icons/2.svg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/icons/1.svg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/blocks/slide-tabs/slide-tabs.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/blocks/tech-slider/tech-slider.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/blocks/header/header.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="25" column="7" lean-forward="true" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/blocks/tech-slider/tech-slider.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="27" lean-forward="false" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/blocks/slide-tabs/slide-tabs.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/blocks/solutions-section/solutions-section.jade" />
+    <entry file="file://$PROJECT_DIR$/app/blocks/slide-item/slide-item.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/blocks/slide-item/slide-item.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="71" lean-forward="false" selection-start-line="3" selection-start-column="50" selection-end-line="3" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/blocks/page/page.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="37" lean-forward="false" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/helpers/variables.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="10" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/icons/camera.svg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/icons/folder.svg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/icons/man.svg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/icons/server.svg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/blocks/principles-item/principles-item.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/blocks/header-nav/header-nav.jade" />
+    <entry file="file://$PROJECT_DIR$/app/blocks/principles-item/principles-item.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/comp Russia.svg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/blocks/map/map.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-15">
+          <caret line="682" column="171" lean-forward="false" selection-start-line="682" selection-start-column="171" selection-end-line="682" selection-end-column="171" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/blocks/technologies-section/technologies-section.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="9" column="111" lean-forward="false" selection-start-line="9" selection-start-column="111" selection-end-line="9" selection-end-column="111" />
+          <caret line="10" column="105" lean-forward="false" selection-start-line="10" selection-start-column="105" selection-end-line="10" selection-end-column="105" />
+          <caret line="11" column="154" lean-forward="false" selection-start-line="11" selection-start-column="154" selection-end-line="11" selection-end-column="154" />
+          <caret line="12" column="129" lean-forward="false" selection-start-line="12" selection-start-column="129" selection-end-line="12" selection-end-column="129" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/resources/assets/images/bg/section3bg.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/resources/assets/images/bg/map.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/blocks/principles-section/principles-section.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="34" lean-forward="true" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/blocks/technologies-section/technologies-section.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="8" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="336">
+            <caret line="130" column="25" lean-forward="false" selection-start-line="130" selection-start-column="25" selection-end-line="130" selection-end-column="25" />
+            <folding>
+              <marker date="1567501589636" expanded="true" signature="5915:6046" ph="{...}" />
+              <marker date="1567501589636" expanded="true" signature="6117:6238" ph="{...}" />
+              <marker date="1567501589636" expanded="true" signature="6128:6236" ph="{...}" />
+              <marker date="1567501589636" expanded="true" signature="6514:6645" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/manifest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.happypack/s--1364415535.map">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="383" lean-forward="false" selection-start-line="0" selection-start-column="383" selection-end-line="0" selection-end-column="383" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/blocks/principles-section/principles-section.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="183" column="22" lean-forward="false" selection-start-line="183" selection-start-column="22" selection-end-line="183" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
