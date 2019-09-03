@@ -1,0 +1,15 @@
+include ../tech-slider/tech-slider
+include ../slide-tabs/slide-tabs
+
+mixin technologies-section()
+	+b.technologies-section.slide(data-anchor='technologies')&attributes(attributes)
+		.wrapper
+			+e.H2.title Передовые технологии
+			+e.slider
+				+e.tabs
+					+slide-tabs('1', 'IoT / M2M', 'Интернет вещей и межмашинное взаимодействие ').__tab(data-anchor='0')
+					+slide-tabs('2', 'ML/AI', 'Искуственный интеллект и машинное обучение').__tab(data-anchor='1')
+					+slide-tabs('3', 'Cloud computing,', 'VDI Виртуализация вычислительных ресурсов, систем хранения данных и рабочих мест').__tab(data-anchor='2')
+					+slide-tabs('4', 'Edge computing', 'Организация вычислений/обработки данных на “границе сети”').__tab(data-anchor='3')
+				+tech-slider()
+

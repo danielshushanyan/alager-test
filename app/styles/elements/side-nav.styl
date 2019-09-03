@@ -1,0 +1,47 @@
+#fp-nav
+	position fixed
+	right 52px
+	top: 50%
+	border-right: 1px solid $c_nav_border;
+
+	li > a
+		padding: 0 19px;
+		height 42px
+		display flex
+		justify-content center
+		align-items center
+		color $c_nav_link
+		position relative
+		line-height 21px
+
+		&:hover {
+			color $c_link
+		}
+
+	.active
+		font-weight 900
+		color $c_link
+
+		&:after
+			content ''
+			position absolute
+			right: -1px
+			top: 0
+			height 100%
+			width 3px
+			transition .3s ease-in-out
+			background-color $c_link
+			border-top-left-radius 5px
+			border-bottom-left-radius 5px
+
+
+	.fp-right
+		display none
+
+#fp-nav.light-theme
+	.active,li > a:hover
+		color $c_nav_link_red
+
+		&:after
+			background-color $c_nav_link_red
+

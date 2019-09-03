@@ -1,0 +1,32 @@
+include ../principles-item/principles-item
+
+mixin principles-section()
+	+b.principles-section&attributes(attributes)
+		.wrapper
+			+e.contetnt
+				+e.H2.title Для передовых решений
+				+principles-item('man', 'Системы операторского класса для сферы общественной безопастности').__item
+				+principles-item('server', 'Инфраструктура хранения и передачи данных').__item
+				+principles-item('camera', 'Распределенные системы видеонаблюдения', true).__item
+				+e.H4.text
+					+e.P.text-bold Любого масштаба:
+					+e.P.text-small от локальных интеграционных задач до территориально распределенных проектов уровня региона.
+		+e.map
+			+e.ripple.__ripple--1
+			+e.ripple.__ripple--2
+			+e.ripple.__ripple--3
+			+e.ripple.__ripple--4
+			+e.ripple.__ripple--5
+			+e.ripple.__ripple--6
+			+e.ripple.__ripple--7
+			+e.ripple.__ripple--8
+			+e.ripple.__ripple--9
+			+e.ripple.__ripple--10
+			+e.ripple.__ripple--11
+			+e.ripple.__ripple--12
+			+e.ripple.__ripple--13
+			+e.ripple.__ripple--14
+			+e.ripple.__ripple--15
+			+e.ripple.__ripple--16
+
+

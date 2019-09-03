@@ -1,0 +1,38 @@
+.header
+	z-index 10
+
+	position fixed
+	top 0
+	left 0
+	display flex
+	flex-wrap wrap
+	align-items center
+	padding 18px 32px 10px
+
+	size(100%, 80px)
+
+	background-color transparent
+	transition all .6s ease-in-out
+
+	&__logo
+		margin-right auto
+
+	&__icon
+		size(112px, 14px)
+
+		path
+			transition .6s ease-in-out
+
+
+.sticky
+	box-shadow 0 2px 14px -4px rgba(0, 0, 0, .1)
+
+	background-color $c_nav_bg_sticky
+	transform translate(0, -10px)
+	transition all .6s ease-in-out
+
+	& .header__icon path
+		fill $c_logo_red
+
+	& .nav__link
+		color $c_nav_link_dark
